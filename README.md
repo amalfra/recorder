@@ -1,5 +1,6 @@
 recorder
 ========
+[![Build Status](https://travis-ci.org/amalfra/recorder.svg?branch=master)](https://travis-ci.org/amalfra/recorder)
 [![GoDoc](https://godoc.org/github.com/amalfra/recorder?status.svg)](https://godoc.org/github.com/amalfra/recorder)
 [![Go Report Card](https://goreportcard.com/badge/github.com/amalfra/recorder)](https://goreportcard.com/report/github.com/amalfra/recorder)
 
