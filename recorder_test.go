@@ -3,9 +3,10 @@ package recorder_test
 import (
 	"fmt"
 	"os"
-	"recorder"
 	"strings"
 	"testing"
+
+	"github.com/amalfra/recorder"
 )
 
 func TestStdout(t *testing.T) {
