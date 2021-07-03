@@ -10,3 +10,6 @@ test:
 	go test -v
 
 build: fmt vet test
+
+publish:
+	cd ../ && go get github.com/amalfra/recorder@v${VERSION} || true
