@@ -12,4 +12,4 @@ test:
 build: fmt vet test
 
 publish:
-	cd ../ && GO111MODULE=on && go get github.com/amalfra/recorder@${VERSION} || true
+	curl https://proxy.golang.org/github.com/amalfra/recorder/@v/${VERSION}.info
