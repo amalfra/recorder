@@ -12,4 +12,4 @@ test:
 build: fmt vet test
 
 publish:
-	cd ../ && go get github.com/amalfra/recorder@v${VERSION} || true
+	cd ../ && go get github.com/amalfra/recorder@${VERSION} || true
