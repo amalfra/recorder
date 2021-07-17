@@ -1,7 +1,7 @@
 recorder
 ========
 [![GitHub release](https://img.shields.io/github/release/amalfra/recorder.svg)](https://github.com/amalfra/recorder/releases)
-[![Build Status](https://travis-ci.com/amalfra/recorder.svg?branch=main)](https://travis-ci.com/amalfra/recorder)
+![Build Status](https://github.com/amalfra/recorder/actions/workflows/test.yml/badge.svg?branch=main)
 [![GoDoc](https://godoc.org/github.com/amalfra/recorder?status.svg)](https://godoc.org/github.com/amalfra/recorder)
 [![Go Report Card](https://goreportcard.com/badge/github.com/amalfra/recorder)](https://goreportcard.com/report/github.com/amalfra/recorder)
 
