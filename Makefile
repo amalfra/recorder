@@ -10,6 +10,3 @@ test:
 	go test -v
 
 build: fmt vet test
-
-publish:
-	curl https://proxy.golang.org/github.com/amalfra/recorder/@v/${VERSION}.info
