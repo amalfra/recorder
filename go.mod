@@ -1,3 +1,3 @@
-module github.com/amalfra/recorder
+module github.com/amalfra/recorder/v2
 
-go 1.12
+go 1.16
