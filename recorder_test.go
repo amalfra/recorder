@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/amalfra/recorder/v2"
+	"github.com/amalfra/recorder/v3"
 )
 
 var wg sync.WaitGroup
